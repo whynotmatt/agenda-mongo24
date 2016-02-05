@@ -1,3 +1,8 @@
+*** Mongo 2.4 Updates ***
+
+This is a fork of [Agenda](https://github.com/rschmukler/agenda) to add changes that allow Agenda to be used with a mongo 2.4 database. The main project currently requires mongo 2.6 at a minimum.
+
+
 # Agenda
 [![Build Status](https://api.travis-ci.org/rschmukler/agenda.svg)](http://travis-ci.org/rschmukler/agenda)
 [![Dependency Status](https://david-dm.org/rschmukler/agenda.svg)](https://david-dm.org/rschmukler/agenda)
